@@ -1,4 +1,14 @@
-### Hi there 👋
+### ⚠️ RECHERCHE ALTERNANCE -> robotique / systèmes embarqué
+
+Bientôt étudiant en M1 chez Ynov Bordeaux
+
+✉️ rdubourgeois@gmail.com
+
+## Diplômes
+⏳ Master Robotique - Systeme Embarqué
+✔️ Licence Informatique
+✔️ Bac.S
+
 
 <!--
 **TheRobinPk/TheRobinPk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
