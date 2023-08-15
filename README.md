@@ -1,12 +1,14 @@
-### ⚠️ RECHERCHE ALTERNANCE -> robotique / systèmes embarqué
+#### ⚠️ RECHERCHE ALTERNANCE -> robotique / systèmes embarqué
 
 Bientôt étudiant en M1 chez Ynov Bordeaux
 
 ✉️ rdubourgeois@gmail.com
 
-## Diplômes
-⏳ Master Robotique - Systeme Embarqué
-✔️ Licence Informatique
+
+
+#### Diplômes :
+⏳ Master Robotique - Systeme Embarqué \
+✔️ Licence Informatique \
 ✔️ Bac.S
 
 
