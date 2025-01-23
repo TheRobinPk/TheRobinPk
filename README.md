@@ -1,9 +1,4 @@
-#### ⚠️ RECHERCHE ALTERNANCE -> robotique / systèmes embarqué
-
-Bientôt étudiant en M1 chez Ynov Bordeaux
-
 ✉️ rdubourgeois@gmail.com
-
 
 
 #### Diplômes :
