@@ -3,7 +3,7 @@
 
 #### Diplômes :
 ⏳ Master Robotique - Systeme Embarqué \
-✔️ Licence Informatique \
+✔️ Licence Informatique
 
 
 <!--
